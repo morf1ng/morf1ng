@@ -109,19 +109,13 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=Fajr_Backend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=105site&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=AlfaHakaton&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=m.r-sutio.ru&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=PyTxt-table-to-Word-and-Pdf-Converter&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+| # | Проект | Описание | Стек |
+|:-:|:-------|:---------|:----:|
+| 🔥 | **Fajr_Backend** | Backend-сервис | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌐 | **105site** | Веб-сайт | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🏆 | **AlfaHakaton** | Проект хакатона Альфа-Банка | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🖥️ | **m.r-sutio.ru** | Персональный сайт | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 📄 | **PyTxt-table-to-Word-and-Pdf-Converter** | Конвертер таблиц из TXT в Word и PDF | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 

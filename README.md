@@ -1,40 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=morf1ng&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=300&section=header&text=morf1ng&fontSize=90&fontAlignY=45&animation=twinkling&fontColor=ffffff&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descAlignY=70&descSize=20" width="100%" />
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+morf1ng;%F0%9F%92%BB+%D0%AF+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4;%F0%9F%9A%80+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)](https://github.com/morf1ng)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%F0%9F%91%8B;Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%F0%9F%87%B7%F0%9F%87%BA;Python+%7C+JavaScript+%7C+TypeScript+%F0%9F%92%BB;Open+Source+%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82+%F0%9F%94%A5)](https://github.com/morf1ng)
+
+  <br/>
+
+  <a href="https://github.com/morf1ng?tab=followers">
+    <img src="https://img.shields.io/github/followers/morf1ng?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/morf1ng?tab=repositories">
+    <img src="https://img.shields.io/github/stars/morf1ng?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=morf1ng&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<table align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════ ABOUT ME ═══════════════════════════════════ -->
+
+<table align="center" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🧑‍💻 Обо мне
+<img src="https://img.shields.io/badge/-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5-58A6FF?style=for-the-badge&logoColor=white" />
 
-```yaml
-name: morf1ng
-location: 🏠 Remote
-role: Developer
-currently_learning:
-  - Python
-  - JavaScript / TypeScript
-  - Web Development
-interests:
-  - Backend Development
-  - Automation
-  - Open Source
-fun_fact: "Код — это поэзия 🎯"
+<br/><br/>
+
+```js
+const morf1ng = {
+    location: "Russia 🇷🇺",
+    work: "Remote 🏠",
+    languages: ["Python", "JavaScript", "TypeScript"],
+    focus: ["Backend", "Web Dev", "Automation"],
+    currently: "Building cool stuff 🚀",
+    motto: "Чистый код > быстрый код"
+};
 ```
 
+<img src="https://img.shields.io/badge/📫_Связаться-Открыть_Issue-58A6FF?style=flat-square&labelColor=0D1117" />
+
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### ⚡ Быстрые факты
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20GitHub%20Stats-58A6FF?style=for-the-badge&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=morf1ng&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="100%" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=morf1ng&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=morf1ng&theme=github-dark-blue&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="100%" />
 
 </td>
 </tr>
@@ -43,87 +67,110 @@ fun_fact: "Код — это поэзия 🎯"
 <br/>
 
 <div align="center">
-
-## 🔧 Мой стек технологий
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,docker,vscode,linux&perline=6&theme=dark" />
+<!-- ═══════════════════════════════════ TECH STACK ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%F0%9F%94%A7%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%B8%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-58A6FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+| Категория | Технологии |
+|:---------:|:----------:|
+| **Языки** | <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi&theme=dark" height="40" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" height="40" /> |
+| **Базы данных** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" height="40" /> |
 
 </div>
 
 <br/>
 
 <div align="center">
-
-## 🏆 Проекты
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════ PROJECTS ═══════════════════════════════════ -->
+
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%20%D0%9C%D0%BE%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-58A6FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
 
 <a href="https://github.com/morf1ng/Fajr_Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=Fajr_Backend&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=Fajr_Backend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
 </a>
-
-</td>
-<td width="50%" align="center">
-
+&nbsp;
 <a href="https://github.com/morf1ng/105site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=105site&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=105site&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<br/>
 
 <a href="https://github.com/morf1ng/AlfaHakaton">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=AlfaHakaton&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=AlfaHakaton&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+</a>
+&nbsp;
+<a href="https://github.com/morf1ng/m.r-sutio.ru">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=m.r-sutio.ru&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
 </a>
 
-</td>
-<td width="50%" align="center">
+<br/>
 
 <a href="https://github.com/morf1ng/PyTxt-table-to-Word-and-Pdf-Converter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=PyTxt-table-to-Word-and-Pdf-Converter&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=morf1ng&repo=PyTxt-table-to-Word-and-Pdf-Converter&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
 </a>
 
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
 
 <div align="center">
-
-## 📊 Статистика
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morf1ng&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="250" />
+<!-- ═══════════════════════════════════ STATS ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-58A6FF?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=morf1ng&theme=github-dark-blue&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morf1ng&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="280" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=morf1ng&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FF6D00&area=true&area_color=58A6FF" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=morf1ng&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6D00&area=true&area_color=58A6FF" width="95%" />
 
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-## 🐍 Мои контрибуции
+<br/>
+
+<!-- ═══════════════════════════════════ SNAKE ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%F0%9F%90%8D%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B8-58A6FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morf1ng/morf1ng/output/github-snake-dark.svg" />
@@ -135,10 +182,44 @@ fun_fact: "Код — это поэзия 🎯"
 
 <br/>
 
+<!-- ═══════════════════════════════════ TROPHY ═══════════════════════════════════ -->
+
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=morf1ng&style=for-the-badge&color=58A6FF&label=ПРОСМОТРЫ+ПРОФИЛЯ)
+
+<img src="https://img.shields.io/badge/-%F0%9F%8F%85%20%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B8-58A6FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=morf1ng&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" width="100%" />
+<br/>
+
+<!-- ═══════════════════════════════════ QUOTE ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
+
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀"Talk is cheap. Show me the code." — Linus Torvalds⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/Спасибо_за_визит!_❤️-0D1117?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=150&section=footer" width="100%" />

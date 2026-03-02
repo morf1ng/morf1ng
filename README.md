@@ -135,17 +135,17 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morf1ng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="45%" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morf1ng&theme=github_dark" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morf1ng&theme=github_dark" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morf1ng&theme=github_dark" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morf1ng&theme=github_dark&utcOffset=3" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morf1ng&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morf1ng&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morf1ng&theme=github_dark&utcOffset=3" width="32%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morf1ng&theme=github_dark" width="32%" />
 
 </div>
 
@@ -157,19 +157,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ═══════════════════════════════════ TROPHY ═══════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%F0%9F%8F%85%20%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B8-58A6FF?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=morf1ng&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════ QUOTE ═══════════════════════════════════ -->
 

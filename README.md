@@ -151,24 +151,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ═══════════════════════════════════ SNAKE ═══════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%F0%9F%90%8D%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B8-58A6FF?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morf1ng/morf1ng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morf1ng/morf1ng/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/morf1ng/morf1ng/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════ TROPHY ═══════════════════════════════════ -->
 
 <div align="center">

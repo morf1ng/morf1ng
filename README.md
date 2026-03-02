@@ -135,11 +135,17 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morf1ng&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="280" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morf1ng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="45%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=morf1ng&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6D00&area=true&area_color=58A6FF" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morf1ng&theme=github_dark" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morf1ng&theme=github_dark" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morf1ng&theme=github_dark" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morf1ng&theme=github_dark&utcOffset=3" width="33%" />
 
 </div>
 

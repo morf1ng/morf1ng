@@ -36,15 +36,22 @@
 
 <br/><br/>
 
-```js
-const morf1ng = {
-    location: "Russia 🇷🇺",
-    work: "Remote 🏠",
-    languages: ["Python", "JavaScript", "TypeScript"],
-    focus: ["Backend", "Web Dev", "Automation"],
-    currently: "Building cool stuff 🚀",
-    motto: "Чистый код > быстрый код"
-};
+```python
+class Developer:
+    def __init__(self):
+        self.name = "morf1ng"
+        self.location = "Russia 🇷🇺"
+        self.work = "Remote 🏠"
+        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.focus = ["Backend", "Web Dev", "Automation"]
+        self.currently = "Building cool stuff 🚀"
+        self.motto = "Чистый код > быстрый код"
+
+    def say_hi(self):
+        print("Спасибо, что заглянул в мой профиль!")
+
+me = Developer()
+me.say_hi()
 ```
 
 <img src="https://img.shields.io/badge/📫_Связаться-Открыть_Issue-58A6FF?style=flat-square&labelColor=0D1117" />
